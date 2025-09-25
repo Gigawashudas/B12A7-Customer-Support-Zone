@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Login page not loading",
+    "description": "Users are unable to access the login page on mobile devices.",
+    "customer": "Alice Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 2,
+    "title": "Payment gateway error",
+    "description": "Transactions are failing with a 502 error during checkout.",
+    "customer": "Bob Smith",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 3,
+    "title": "Profile picture upload fails",
+    "description": "Users cannot upload profile pictures larger than 2MB.",
+    "customer": "Charlie Lee",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 4,
+    "title": "Email notifications delayed",
+    "description": "Some users report receiving email notifications hours late.",
+    "customer": "Diana Evans",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-23T"
+  },
+  {
+    "id": 5,
+    "title": "Search functionality slow",
+    "description": "Search results take longer than 10 seconds to load.",
+    "customer": "Ethan Wright",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 6,
+    "title": "Incorrect invoice total",
+    "description": "Invoices are showing incorrect totals after applying discounts.",
+    "customer": "Fiona Kim",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-09-24"
+  },
+  {
+    "id": 7,
+    "title": "Mobile app crash on startup",
+    "description": "The Android app crashes immediately after launch on version 12.",
+    "customer": "George Patel",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-24"
+  },
+  {
+    "id": 8,
+    "title": "Password reset link expired",
+    "description": "Users report that password reset links expire immediately after requesting.",
+    "customer": "Hannah Scott",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": 9,
+    "title": "Dashboard charts not updating",
+    "description": "Real-time metrics on the dashboard do not refresh automatically.",
+    "customer": "Ian Clark",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": 10,
+    "title": "Typo in FAQ section",
+    "description": "Several spelling mistakes found in the FAQ content.",
+    "customer": "Jane Adams",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-26"
+  },
+  {
+    "id": 11,
+    "title": "Notification sound not playing",
+    "description": "Desktop notifications are silent even though settings are enabled.",
+    "customer": "Kyle Brown",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-26"
+  },
+  {
+    "id": 12,
+    "title": "Data export CSV corrupted",
+    "description": "Exported CSV files have missing headers and broken formatting.",
+    "customer": "Laura Green",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-27"
+  },
+  {
+    "id": 13,
+    "title": "Slow image loading",
+    "description": "Images on the homepage take too long to load on slow connections.",
+    "customer": "Michael Reed",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-27"
+  },
+  {
+    "id": 14,
+    "title": "Error 404 on FAQ page",
+    "description": "FAQ page returns 404 for some users on mobile devices.",
+    "customer": "Nina Parker",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-28"
+  },
+  {
+    "id": 15,
+    "title": "App theme not saving",
+    "description": "User-selected dark/light theme does not persist across sessions.",
+    "customer": "Oliver Stone",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-28"
+  },
+  {
+    "id": 16,
+    "title": "Broken link in footer",
+    "description": "The 'Contact Us' link in the footer returns a 500 error.",
+    "customer": "Paula White",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-29"
+  },
+  {
+    "id": 17,
+    "title": "Video autoplay not working",
+    "description": "Homepage video does not autoplay on Safari browser.",
+    "customer": "Quentin Hall",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-29"
+  },
+  {
+    "id": 18,
+    "title": "Search suggestions missing",
+    "description": "Search bar does not show suggestions while typing for some users.",
+    "customer": "Rachel Young",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-30"
+  }
+]
