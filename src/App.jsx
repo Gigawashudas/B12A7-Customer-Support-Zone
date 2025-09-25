@@ -24,7 +24,7 @@ function App() {
         <Hero resolvedCount={resolvedCount} inProgress={inProgress}></Hero>
         <Suspense
           fallback={
-            <div className="flex justify-center items-center h-full">
+            <div className="flex justify-center items-center pb-[100vh] h-full">
               <span className="loading loading-dots loading-xl"></span>
             </div>
           }
